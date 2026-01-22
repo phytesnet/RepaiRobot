@@ -10,7 +10,7 @@ RepaiRobot/
 ├── skills/
 │   ├── secure_hold.md
 │   ├── apply_force.md
-│   └── micro_adjust.md
+	│   └── micro_adjust.md
 │
 ├── performances/
 │   ├── safe_extract.md
@@ -73,9 +73,6 @@ RepaiRobot ist ein modulares Robotik-System zur:
 - materialschonenden Demontage
 - Rekombination von Komponenten
 - Erstellung neuer, angepasster Systeme
-
-Das Projekt ist bewusst in **klare Ebenen** unterteilt,  
-um Komplexität beherrschbar zu machen.
 
 ---
 
