@@ -85,9 +85,6 @@ Siehe: `CONTRIBUTING.md` (in Vorbereitung)
 Dieses Projekt ist lizenziert unter der  
 **GNU Affero General Public License v3 (AGPL-3.0)**.
 
-> Jede Nutzung – auch über Netzwerkdienste – erfordert die Offenlegung
-> der entsprechenden Quellcode-Änderungen.
-
 ---
 
 ## Hinweis
